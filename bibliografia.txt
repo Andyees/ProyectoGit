@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-Chacon, S. and Straub, B. Pro Git. Apress.
-Loeliger, J. and McCullough, M. Version control with Git. O’Reilly.
-=======
-n, S. and Straub, B. Pro Git. Apress.
->>>>>>> bibliografia
+Gabriel Garcia Marquez editorial x libro x
+Vallejo editorial x libro x
+
 
