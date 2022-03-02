@@ -1,2 +1,4 @@
+Andres, UPB , Diplomado
+
 n, S. and Straub, B. Pro Git. Apress.
 
